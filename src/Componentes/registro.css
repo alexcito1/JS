@@ -1,0 +1,21 @@
+button {
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-left: 150px;
+    width: 200px;
+}
+
+.form-control {
+    width: 500px;
+}
+
+
+.center {
+    text-align: center;
+  }
+  
+  .contenedorP {
+    margin: 0 auto;
+    max-width: 500px; /* O el ancho deseado para tu contenedor */
+  }
+

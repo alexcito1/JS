@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "identificacion": "123456789",
+        "nombres": "yefry",
+        "apellidos": "marin",
+        "email": "yefrymamguevo@gmail.com",
+        "direccion": "la casa de eladfgdfgsdf",
+        "telefono": "1234567890",
+        "password": "Tucasa123456",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-04-30T20:35:16.845Z"
+    },
+    {
+        "id": 2,
+        "identificacion": "1232597687",
+        "nombres": "Angelo",
+        "apellidos": "Lobezno",
+        "email": "angelobezno@gmail.com",
+        "direccion": "la casa de elstrhfghdgj",
+        "telefono": "3113784303",
+        "password": "Celeste93",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-05-06T21:32:37.455Z"
+    },
+    {
+        "id": 3,
+        "identificacion": "123456780",
+        "nombres": "Ali",
+        "apellidos": "kate",
+        "email": "alikate@gmail.com",
+        "direccion": "la casa de eldffgsfhdgh",
+        "telefono": "3333333333",
+        "password": "Celeste94",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-05-06T22:35:59.911Z"
+    },
+    {
+        "id": 4,
+        "identificacion": "1004135519",
+        "nombres": "Gabriela",
+        "apellidos": "Ramos",
+        "email": "gabrielaramos214@gmail.com",
+        "direccion": "la casa de eldafbzdfhsfghxfgmg",
+        "telefono": "3002605789",
+        "password": "Celeste99",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-05-13T02:46:14.199Z"
+    },
+    {
+        "id": 5,
+        "identificacion": "10128492",
+        "nombres": "Jose Alexander",
+        "apellidos": "Henao Velasquez",
+        "email": "josealexander40@gmail.com",
+        "direccion": "cra25#76a28Corales",
+        "telefono": "3173578374",
+        "password": "Celeste33",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-05-17T23:30:02.871Z"
+    }
+]
