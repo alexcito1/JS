@@ -1,4 +1,4 @@
-import './app.css';
+import './App.css';
 import Inicio from './Componentes/Inicio';
 import { Routes, Route, HashRouter } from "react-router-dom";
 import NotFound from './Componentes/NotFound';
